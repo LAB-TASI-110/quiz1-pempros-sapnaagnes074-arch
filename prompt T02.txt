@@ -1,0 +1,3 @@
+buatlah program dalam bahasa c yang dapat menghitung dan menampilkan totoal nilai siswa hanya untuk kelompok yang diminta berdasarkan kode kelompok yg diinput. input 1.Jumlah total data (N). 2.Deret nilai (n1, n2, …, n). 3.Kode kelompok siswa
+pengelompokannya berdasarkan posisi data nya adalah kel 1 (posisi ganjil) kelompok 2 (posisi genap)
+sesuai data yohana=75, julius=65, indah=80, wilson= 70

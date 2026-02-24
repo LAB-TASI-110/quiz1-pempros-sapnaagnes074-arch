@@ -1,0 +1,4 @@
+buat lah program dalam bahasa c untuk mendukung sistem antrian lanundry di del lalu tampil kan daftar antrian sesuai urutan kedatangan dan jumlah planggang yang diterima
+queue itu umtuk apa
+contoh inputannya
+atau buat program dalam bahasa c untuk sistem manajemen transaksi loundry di del
